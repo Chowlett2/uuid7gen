@@ -1,0 +1,7 @@
+- Added MIT LICENSE file to the repository.
+- Updated pyproject.toml with correct GitHub URLs and author information.
+- Refactored batch_uuid7 to use list comprehension for faster iteration.
+- Added submillisecond support to uuid7 and batch_uuid7, encoding up to 12 bits of subms precision per RFC 9562.
+- Updated docstrings and README.md to reflect submillisecond support and RFC compliance.
+- Added example expected outputs to README.md for single and batch UUID generation.
+- Implemented basic error handling for invalid arguments in uuid7 and batch_uuid7.

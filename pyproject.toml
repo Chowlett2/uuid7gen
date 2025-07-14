@@ -7,7 +7,9 @@ name = "uuid7gen"
 version = "0.1.0"
 description = "UUIDv7 generation for Python <3.11"
 authors = [
-  { name="Your Name", email="you@example.com" }
+  { name="Conor Howlett", email="howlettconor@gmail.com" },
+  { name="Adam Lashley", email="lashleyaq@gmail.com" },
+  { name="Tyler Blume", email="t-blume@hotmail.com" }
 ]
 readme = "README.md"
 requires-python = ">=3.7"
@@ -25,6 +27,6 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/yourname/uuid7gen"
-"Source" = "https://github.com/yourname/uuid7gen"
-"Bug Tracker" = "https://github.com/yourname/uuid7gen/issues"
+"Homepage" = "https://github.com/Chowlett2/uuid7gen"
+"Source" = "https://github.com/Chowlett2/uuid7gen"
+"Bug Tracker" = "https://github.com/Chowlett2/uuid7gen/issues"
