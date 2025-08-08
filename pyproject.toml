@@ -26,6 +26,9 @@ classifiers = [
   "Operating System :: OS Independent"
 ]
 
+[project.optional-dependencies]
+dev = ["pytest>=6.0", "pytest-cov"]
+
 [project.urls]
 "Homepage" = "https://github.com/Chowlett2/uuid7gen"
 "Source" = "https://github.com/Chowlett2/uuid7gen"
